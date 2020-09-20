@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">MatchingDB</string>
+    <string name="start">Start</string>
+    <string-array name="array_photos">
+        <item>Aady Pillai</item>
+        <item>Aarushi Agrawal</item>
+        <item>Aayush Tyagi</item>
+        <item>Abhinav Kejriwal</item>
+        <item> Afees Tiamiyu</item>
+        <item>Ajay Merchia</item>
+        <item> Anand Chandra</item>
+        <item> Andres Medrano</item>
+        <item> Andrew Santoso</item>
+        <item> Anika Bagga</item>
+        <item> Anik Gupta</item>
+        <item> Anita Shen</item>
+        <item> Anjali Thakrar</item>
+        <item> Anmol Parande</item>
+        <item> Ashwin Aggarwal</item>
+        <item> Ashwin Kumar</item>
+        <item> Athena Leong</item>
+        <item>  Austin Davis</item>
+        <item>Ayush Kumar</item>
+        <item> Brandon David</item>
+        <item> Candace Chiang</item>
+        <item> Candice Ye</item>
+        <item> Charles Yang</item>
+        <item> Colin Zhou</item>
+        <item> Daniel Andrews</item>
+        <item>  Divya Tadimeti</item>
+        <item> DoHyun Cheon</item>
+        <item> Eric Kong</item>
+        <item> Ethan Wong</item>
+        <item> Francis Chalissery</item>
+        <item>  Geo Morales</item>
+        <item>  Ian Shen</item>
+        <item> Imran Khaliq</item>
+        <item>  Izzie Lau</item>
+        <item> Jacqueline Zhang</item>
+        <item> James Jung</item>
+        <item> Japjot Singh</item>
+        <item> Joey Hejna</item>
+        <item> Juliet Kim</item>
+        <item> Kanyes Thaker</item>
+        <item> Karen Alarcon</item>
+        <item>  Katniss Lee</item>
+        <item>  Kayli Jiang</item>
+        <item> Kiana Go</item>
+        <item> Maggie Yi</item>
+        <item>  Matthew Locayo</item>
+        <item>  Max Emerling</item>
+        <item>   Max Miranda</item>
+        <item> Melanie Cooray</item>
+        <item> Michael Lin</item>
+        <item> Michelle Mao</item>
+        <item> Mohit Katyal</item>
+        <item> Mudabbir Khan</item>
+        <item> Natasha Wong</item>
+        <item> Neha Nagabothu</item>
+        <item> Nicholas Wang</item>
+        <item> Nikhar Arora</item>
+        <item> Noah Pepper</item>
+        <item> Olivia Li</item>
+        <item> Patrick Yin</item>
+        <item> Paul Shao</item>
+        <item> Radhika Dhomse</item>
+        <item>  Rini Vasan</item>
+        <item> Sai Yandapalli</item>
+        <item>  Salman Husain</item>
+        <item>  Samantha Lee</item>
+        <item> Shaina Chen</item>
+        <item>  Sharie Wang</item>
+        <item>Shaurya Sanghvi</item>
+        <item> Shiv Kushwah</item>
+        <item>  Shomil Jain</item>
+        <item>  Shubha Jagannatha</item>
+        <item> Shubham Gupta</item>
+        <item> Simran Regmi</item>
+        <item> Sinjon Santos</item>
+        <item> Srujay Korlakunta</item>
+        <item> Stephen Jayakar</item>
+        <item> Tyler Reinecke</item>
+        <item>  Vaibhav Gattani</item>
+        <item> Varun Jhunjhunwalla</item>
+        <item>  Victor Sun</item>
+        <item>  Vidya Ravikumar</item>
+        <item>  Vineeth Yeevani</item>
+        <item>  Will Oakley</item>
+        <item>  Will Vavrik</item>
+        <item>  Xin Yi Chen</item>
+        <item>  Yatin Agarwal </item>
+
+    </string-array>
+
+</resources>
